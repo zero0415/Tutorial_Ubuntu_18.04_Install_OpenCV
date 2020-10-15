@@ -91,6 +91,6 @@ Then,
 ```sudo make install```  
 ```sudo ldconfig```
 
-## Finish
-check pkg-config
+## Finish  
+check pkg-config  
 ```pkg-config opencv --libs --cflags```
