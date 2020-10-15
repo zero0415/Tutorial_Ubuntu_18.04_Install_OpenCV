@@ -50,11 +50,11 @@ Install OpenCV on Ubuntu 18.04
 
 ## Step 4: Download opencv and opencv_contrib
 #### 1. Make a work file  
-```mkdir opencv440 && cd opencv440```   
-#### 2. Download opencv version 4.4.0  and download opencv_contrib version 4.4.0   
+```mkdir opencv440 && cd opencv3411```   
+#### 2. Download opencv version 3.4.11  and download opencv_contrib version 3.4.11   
 Check the version at https://opencv.org/releases/  
-```git clone -b 4.4.0 https://github.com/opencv/opencv```  
-```git clone -b 4.4.0 https://github.com/opencv/opencv_contrib```  
+```git clone -b 3.4.11 https://github.com/opencv/opencv```  
+```git clone -b 3.4.11 https://github.com/opencv/opencv_contrib```  
 
 ## Step 5: Compile and install OpenCV with contrib modules  
 #### 1. Make a build file  
@@ -63,7 +63,7 @@ Check the version at https://opencv.org/releases/
 Directory tree structure  
 ```
 .
-├──opencv440
+├──opencv3411
 │   ├── build
 │   ├── opencv
 │   └── opencv_contrib
