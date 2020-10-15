@@ -88,5 +88,5 @@ Then,
 
 
 #### 3. Install
-```sudo make install```
+```sudo make install```  
 ```sudo ldconfig```
