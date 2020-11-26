@@ -36,6 +36,7 @@ Install OpenCV on Ubuntu 18.04
 ```sudo apt -y install libprotobuf-dev protobuf-compiler```  
 ```sudo apt -y install libgoogle-glog-dev libgflags-dev```  
 ```sudo apt -y install libgphoto2-dev libeigen3-dev libhdf5-dev doxygen```  
+```sudo apt -y install libzip-dev libboost-all-dev```   
 
 
 #### 3. Link
